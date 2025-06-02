@@ -16,7 +16,7 @@ int main() {
             break;
         }
         
-        if (numero >= 1 && numero < 100) {
+        if (numero >= 0 && numero < 100) {
             suma += numero;
             sumprom += numero;
             sumaCuadrados += (numero * numero);
