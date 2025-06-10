@@ -21,7 +21,7 @@ int main() {
         } else {
             n = 3 * n + 1;
         }
-        cout << " -> " << n;
+        cout << " => " << n;
     }
 
     cout << endl;
